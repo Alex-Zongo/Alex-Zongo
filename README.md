@@ -10,7 +10,7 @@
 
 📫 You are welcome to check my [website](https://alex-zongo.github.io/) and contact me at: [alexanicetzongo@gmail.com](alexanicetzongo@gmail.com) or [a.zongo@gwu.edu](a.zongo@gwu.edu).
 
-⚡ Fun fact: I love music, and I am an active learner and gospel piano player 🎹
+⚡ Fun fact: I love music, and I am an active learner and gospel piano player 🎹.
 
 <!--
 **Alex-Zongo/Alex-Zongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
